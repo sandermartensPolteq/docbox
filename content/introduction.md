@@ -1,4 +1,4 @@
-## Our API
+## Selenium
 
 Welcome to coolcorp biz! This is our API documentation. This documentation
 is generated from normal Markdown files using [docbox](https://github.com/tmcw/docbox),
